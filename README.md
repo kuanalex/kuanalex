@@ -1,6 +1,6 @@
 # Hi there, I'm Alex 👋
 
-I'm an IT professional with experience in **OpenShift**, **IBM Software Hub (formerly Cloud Pak for Data)**, and enterprise software solutions.
+I'm an IT professional with experience in **OpenShift**, **IBM Software Hub**, and enterprise software solutions
 
 ---
 
